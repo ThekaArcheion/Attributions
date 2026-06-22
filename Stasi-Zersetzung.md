@@ -1,3 +1,8 @@
+File: Scared woman sitting by window covering her face with hands
+Author: Shixart1985
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Scared_woman_sitting_by_window_covering_her_face_with_hands_in_a_room_during_a_rainy_day.jpg
+
 File: Portrait of Jürgen Fuchs (1990)
 Author: Kai Ammon
 License: CC BY-SA 3.0
@@ -22,3 +27,8 @@ File: Archive Research Area, City of Plymouth History Center
 Author: Myotus
 License: CC BY 4.0
 Source: https://commons.wikimedia.org/wiki/File:Archive_research_area,_City_of_Plymouth_History_Center.jpg
+
+File: Stasi Museum Berlin
+Author: Prof.Quatermass
+License: CC BY 3.0
+Source: https://commons.wikimedia.org/wiki/File:Sede_Stasi_Museum.JPG
