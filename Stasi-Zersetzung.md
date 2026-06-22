@@ -8,11 +8,6 @@ Author: Kai Ammon
 License: CC BY-SA 3.0
 Source: https://commons.wikimedia.org/wiki/File:Juergenfuchs.jpeg
 
-File: Portrait of Erich Mielke (1976)
-Author: Bundesarchiv, Bild 183-R0522-177
-License: CC BY 3.0
-Source: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0522-177,_Erich_Mielke_(cropped).jpg
-
 File: Justizzentrum Aachen - Gerichtssaal
 Author: ACBahn
 License: CC BY 3.0
